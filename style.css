@@ -1,0 +1,52 @@
+
+html, body{
+    /* height: 100%; */
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: sticky;
+    top: 0;
+    background: #fff;
+    height: 66px;
+    /* box-shadow: rgba(0,0,0,0.35) 0px 5px 5px; */
+}
+.left img{
+    width: 32px;
+    height: 23px;
+}
+.container{
+    padding: 0 10vw;
+    margin: auto;
+}
+nav{
+    font-size: 12px;
+    padding-top: 14px;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+}
+
+.section1{
+    background-color: rgb(238, 234, 234);
+    /* height: 1000px; */
+}
+
+.inputSearch{
+    width: 300px;
+    border: 1px solid #f5f5f6;
+    padding: 10px 10px;
+    background-color: #f5f5f6;
+    border-radius: 0 4px 4px 0;
+    outline: 0;
+}
+.slider{
+    margin: 12px 0;
+}
+.img2nd img{
+    width: 25%;
+    border: 2px solid red;
+}
+
